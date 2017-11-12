@@ -207,6 +207,7 @@ This example plays the sound of a dog barking when the button is held down, and 
     data:
       gw_mac: xxxxxxxxxxxx
       ringtone_id: 8
+      # ringtone_vol from 1 to 100
       ringtone_vol: 8
 
 - alias: Stop barking immediately on single click
